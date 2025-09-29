@@ -45,7 +45,7 @@ const Contact = () => {
                     <img src={email_icon} alt="" /> <p>Garywn123@gmail.com</p>
                 </div>
                 <div className="contact-detail">
-                    <img src={phone_icon} alt="" /> <p>(123) 456-7890</p>
+                    <img src={phone_icon} alt="" /> <p>(979) 820-2144</p>
                 </div>
                 <div className="contact-detail">
                     <img src={location_icon} alt="" /> <p>Dallas, TX</p>
