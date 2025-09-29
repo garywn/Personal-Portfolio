@@ -11,7 +11,11 @@ const Hero = () => {
       <p>I am a full-stack developer that specializes in building exceptional digital experiences.</p>
       <div className="hero-action">
         <div className="hero-connect"><AnchorLink className='anchor-link' href='#contact'>Connect With Me</AnchorLink></div>
-        <div className="hero-resume">My Resume</div>
+        <div className="hero-resume">
+          <a href="/Pei-he Resume 2025.pdf" target="_blank" rel="noopener noreferrer" >
+             My Resume
+           </a>
+        </div>
       </div>
     </div>
   )
