@@ -16,7 +16,7 @@ const About = () => {
         </div>
         <div className="about-right">
             <div className="about-para">
-                <p>I am experienced Web developer that specializes in creating dynamic and responsive web applications. I have over 3 years of experience in the industry, and have built several backend applications for business users. Throughout my career, I have had the privilege of collarborating with prestigious organizations, contributing to their success and growth.</p>
+                <p>I am an experienced Web developer that specializes in creating dynamic and responsive web applications. I have over 3 years of experience in the industry, and have built several backend applications for business users. Throughout my career, I have had the privilege of collarborating with prestigious organizations, contributing to their success and growth.</p>
                 <p>My external hobbies that are showcased on my page include photography, hiking, and traveling. Check out my photography portfolio while you're here!</p>
             </div>
             <div className="about-skills">
